@@ -1,1 +1,0 @@
-This file contains text and exists and comes from Visual Studio and hopefully will be in GHithub.
