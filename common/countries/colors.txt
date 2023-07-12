@@ -1,0 +1,5 @@
+#reload countrycolors
+GUS = {
+	color = rgb { 20 133 237 }
+	color_ui = rgb { 87 160 255 }
+}
