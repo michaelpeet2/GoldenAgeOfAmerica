@@ -3,6 +3,8 @@ state={
 	name="STATE_866"
 	provinces={
 		761 763 3736 4753 
+		#provinces from North Ontario
+		4875 11571 1769 13094 7794 12701 4869 1782 10621 4784 9740 1299
 	}
 	history = {
 		}

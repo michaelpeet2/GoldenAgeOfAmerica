@@ -13,11 +13,9 @@ bookmarks = {
 			history = "Its just a very blue golden america"
 			ideology = democratic
 			ideas = {
-			}
+				}
 			focuses = {
-			}
+				}
 			}
 		}
-
-	
 }

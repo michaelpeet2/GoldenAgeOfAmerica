@@ -4,10 +4,10 @@
     "\\GoldenAgeAmerica",
     "\\GoldenAgeAmerica\\common",
     "\\GoldenAgeAmerica\\common\\bookmarks",
-    "\\GoldenAgeAmerica\\common\\countries",
-    "\\GoldenAgeAmerica\\common\\country_tags",
     "\\GoldenAgeAmerica\\common\\ideologies",
     "\\GoldenAgeAmerica\\gfx",
+    "\\GoldenAgeAmerica\\gfx\\leaders",
+    "\\GoldenAgeAmerica\\history",
     "\\GoldenAgeAmerica\\history\\countries",
     "\\GoldenAgeAmerica\\history\\states"
   ],
