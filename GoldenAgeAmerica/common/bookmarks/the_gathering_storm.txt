@@ -1,0 +1,23 @@
+bookmarks = {
+	bookmark = {
+		name = "DO NOT TAKE"
+		desc = "left is as I am a new modder and do not know how to disable"
+		date = 1856.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GUS"
+		default = yes
+		
+
+
+		"GUS"={
+			history = "Its just a very blue golden america"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+			}
+		}
+
+	
+}
