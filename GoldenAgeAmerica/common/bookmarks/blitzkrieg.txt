@@ -1,0 +1,21 @@
+bookmarks = {
+	bookmark = {
+		name = "The start of an Era"
+		desc = "MERICA!!!"
+		date = 1856.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GUS"
+		default = yes
+		
+
+		"GUS"={
+			history = "Its just a very blue golden america"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+	}
+}

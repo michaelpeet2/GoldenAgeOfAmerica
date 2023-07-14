@@ -1,0 +1,2 @@
+#Vanilla Italy file do not Edit.
+capital = 2

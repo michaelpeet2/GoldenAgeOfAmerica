@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GoldenAgeAmerica"
+    "\\GoldenAgeAmerica",
+    "\\GoldenAgeAmerica\\history",
+    "\\GoldenAgeAmerica\\history\\countries",
+    "\\GoldenAgeAmerica\\map"
   ],
-  "SelectedNode": "\\GoldenAgeAmerica",
+  "SelectedNode": "\\GoldenAgeAmerica\\map\\buildings.txt",
   "PreviewInSolutionExplorer": false
 }
