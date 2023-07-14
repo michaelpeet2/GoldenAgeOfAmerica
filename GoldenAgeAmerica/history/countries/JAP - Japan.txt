@@ -1,0 +1,2 @@
+#Vanilla Japan file do not Edit.
+capital = 282
