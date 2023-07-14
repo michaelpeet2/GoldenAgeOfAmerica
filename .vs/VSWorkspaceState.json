@@ -2,15 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\GoldenAgeAmerica",
-    "\\GoldenAgeAmerica\\common",
-    "\\GoldenAgeAmerica\\common\\bookmarks",
-    "\\GoldenAgeAmerica\\common\\ideologies",
-    "\\GoldenAgeAmerica\\gfx",
-    "\\GoldenAgeAmerica\\gfx\\leaders",
     "\\GoldenAgeAmerica\\history",
     "\\GoldenAgeAmerica\\history\\countries",
-    "\\GoldenAgeAmerica\\history\\states"
+    "\\GoldenAgeAmerica\\map"
   ],
-  "SelectedNode": "\\GoldenAgeAmerica\\common\\bookmarks\\the_gathering_storm.txt",
+  "SelectedNode": "\\GoldenAgeAmerica\\map\\buildings.txt",
   "PreviewInSolutionExplorer": false
 }
