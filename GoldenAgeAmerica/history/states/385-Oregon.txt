@@ -7,8 +7,9 @@ state={
 	state_category = town
 
 	history={
+		add_core_of = CAC
 		add_core_of = GUS
-		owner = GUS
+		owner = CAC
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
