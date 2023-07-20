@@ -1,5 +1,9 @@
 GUS	= "countries/GoldenAmerica.txt"
 
+CAC	= "countries/CascadianTerritories.txt"
+
+
+
 #Vanilla Country tags for refrence to avoid errors all modded countries must use a new country tag which consists of 3 letters
 
 GER	= "countries/Germany.txt"

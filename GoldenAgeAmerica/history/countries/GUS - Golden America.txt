@@ -29,10 +29,25 @@ recruit_character = GUS_aco2
 
 set_convoys = 20
 
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = CAS
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = CAS
+	}
+}
 
 set_politics = {
 	ruling_party = democratic
-	last_election = "1936.1.1"
+	last_election = "1852.11.2"
 	election_frequency = 48
 	elections_allowed = yes
 }

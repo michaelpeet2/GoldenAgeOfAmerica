@@ -2,10 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\GoldenAgeAmerica",
+    "\\GoldenAgeAmerica\\gfx",
+    "\\GoldenAgeAmerica\\gfx\\flags",
+    "\\GoldenAgeAmerica\\gfx\\flags\\medium",
+    "\\GoldenAgeAmerica\\gfx\\leaders",
+    "\\GoldenAgeAmerica\\gfx\\leaders\\CAC",
     "\\GoldenAgeAmerica\\history",
-    "\\GoldenAgeAmerica\\history\\countries",
-    "\\GoldenAgeAmerica\\map"
+    "\\GoldenAgeAmerica\\localisation",
+    "\\GoldenAgeAmerica\\localisation\\english"
   ],
-  "SelectedNode": "\\GoldenAgeAmerica\\map\\buildings.txt",
   "PreviewInSolutionExplorer": false
 }
