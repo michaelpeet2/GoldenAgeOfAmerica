@@ -13,8 +13,9 @@ state={
 	}
 
 	history={
+		add_core_of = CAC
 		add_core_of = GUS
-		owner = GUS
+		owner = CAC
 		buildings = {
 			infrastructure = 2
 		}

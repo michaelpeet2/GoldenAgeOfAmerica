@@ -1,0 +1,24 @@
+capital = 385
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1852.11.2"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 100
+	fascism = 0
+	communism = 0
+	neutrality = 0
+}
+
+create_country_leader = {
+	name = "Territorial Governments"
+	desc = ""
+	picture = "Congress.dds"
+	ideology = liberalism
+	traits = {
+		#
+	}
