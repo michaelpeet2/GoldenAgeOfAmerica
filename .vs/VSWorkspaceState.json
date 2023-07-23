@@ -2,14 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\GoldenAgeAmerica",
-    "\\GoldenAgeAmerica\\gfx",
-    "\\GoldenAgeAmerica\\gfx\\flags",
-    "\\GoldenAgeAmerica\\gfx\\flags\\medium",
     "\\GoldenAgeAmerica\\gfx\\leaders",
-    "\\GoldenAgeAmerica\\gfx\\leaders\\CAC",
-    "\\GoldenAgeAmerica\\history",
-    "\\GoldenAgeAmerica\\localisation",
     "\\GoldenAgeAmerica\\localisation\\english"
   ],
+  "SelectedNode": "\\GoldenAgeAmerica\\common",
   "PreviewInSolutionExplorer": false
 }

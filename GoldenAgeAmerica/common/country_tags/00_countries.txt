@@ -1,7 +1,27 @@
+#Canada & Akaska
+#ALA = "countries/Alaska.txt"
+#ONT = "countries/Ontario.txt"
+#QUE = "countries/Quebec.txt"
+#NOS = "countries/NovaScotia.txt"
+#NBW = "countries/NewBrunswick.txt"
+#HBC = "countries/HudsonsBayCompany.txt"
+#CA = "countries/NorthernCascadia.txt"
+#NFL = "countries/Newfoundland.txt"
+#TFN = "countries/TheFirstNations.txt"
+
+#America
 GUS	= "countries/GoldenAmerica.txt"
-
 CAC	= "countries/CascadianTerritories.txt"
-
+#MWT = "countries/MidWesternTerritories.txt"
+#KAN = "countries/Kansas.txt"
+#SWT = "countries/SouthWesternTerritories.txt"
+#MIN = "countries/MinnesotaTerritory.txt"
+#TWN = "countries/TwinTerritories.txt"
+#PUR = "countries/PuertoRico.txt"
+#GCO = "countries/GranColumbia.txt" 
+#LAG = "countries/Lagwiyann.txt"
+#BER = "countries/Bermuda.txt"
+#GLA = "countries/Greenland.txt"
 
 
 #Vanilla Country tags for refrence to avoid errors all modded countries must use a new country tag which consists of 3 letters
