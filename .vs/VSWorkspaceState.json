@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\GoldenAgeAmerica",
-    "\\GoldenAgeAmerica\\gfx\\leaders",
-    "\\GoldenAgeAmerica\\localisation\\english"
+    "\\GoldenAgeAmerica\\history",
+    "\\GoldenAgeAmerica\\history\\states"
   ],
-  "SelectedNode": "\\GoldenAgeAmerica\\common",
+  "SelectedNode": "\\GoldenAgeAmerica\\history\\states\\361-Maryland.txt",
   "PreviewInSolutionExplorer": false
 }
